@@ -1,7 +1,7 @@
 {
   "name": "⚜ANDY MD⚜",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/andymrlit/AndyMd-V2",
+  "repository": "https://github.com/Hackerlit/AndyMd-V2",
   "logo": "https://i.ibb.co/YD7PNws/Melissa-Kinrenka-full-2841338.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
